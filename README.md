@@ -1,2 +1,0 @@
-# EE460J
-EE460J Labs
